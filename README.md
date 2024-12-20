@@ -44,12 +44,12 @@ This is a Java-based chat application that utilizes several design patterns to e
    cd chat-application
    ```
 
-3. **Ensure you have Java and a compatible IDE (like IntelliJ IDEA or Eclipse) installed.**
+3. **Ensure you have Java and a compatible IDE (like Netbeans or IntelliJ IDEA) installed.**
 
 4. **Set up the database**:  
    - Ensure you have MySQL installed and running.  
    - Create a database named `chatapplication`.  
-   - Import the database schema and data from the provided SQL file (if available).  
+   - Import the database schema and data from the provided SQL file.  
 
 5. **Configure database connection**:  
    - Update the `Database` class in the `util` package with your database credentials.  
