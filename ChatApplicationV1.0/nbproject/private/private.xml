@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/GroupFactory.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/SignUp.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/proxy/MessageSender.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/observer/ChatObserver.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/controller/ChatSessionManager.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/TextMessage.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/dao/ContactDAO.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/MessageFactory.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/observer/ChatSubject.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/util/Database.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/Home.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/controller/ContactManager.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/Groups.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/proxy/MessageSenderProxy.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/ChatWindow.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/Login.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/dao/GroupDAO.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/ImageMessage.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/controller/GroupManager.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/dao/UserDAO.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/dao/ChatDAO.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/GUI.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/PrivateGroup.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/model/Message.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/proxy/RealMessageSender.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/model/User.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/VideoMessage.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/controller/UserAuthManager.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/model/Group.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/view/Contact.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/factory/PublicGroup.java</file>
+            <file>file:/C:/Users/fadyw/Documents/NetBeansProjects/ChatApplicationV0.1/src/observer/ChatNotifier.java</file>
+        </group>
+    </open-files>
+</project-private>
